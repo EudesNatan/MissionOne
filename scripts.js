@@ -38,7 +38,7 @@ if (select.value === "€ - Euro") {
 
     var textoMoedas = document.getElementById("texto-moeda")
     var Bandeiras = document.getElementById("bandeira-moedas")
-    if (select.value === "US$ - Dolár Americano") {
+    if (select.value === "US$ - Dolar Americano") {
         textoMoedas.innerHTML = "Dolar Americano"
         Bandeiras.src = "./img/dolar.png"
 
